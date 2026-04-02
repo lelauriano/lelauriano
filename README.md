@@ -1,6 +1,6 @@
-## Hello!
+## Oi!
 
-# 💫 About Me:
+# 💫 Sobre mim:
 Estou cursando TADS na UNICAMP. Sou entusiasta de Inteligência Artificial e apaixonada pela área de Dados.
 
 Essas são as linguagues de programação e tecnologias que tenho me aventurado:
